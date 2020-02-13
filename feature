@@ -1,2 +1,3 @@
 hello this is feature 
-hello we are going to merge it on master
+
+hello we would merge it on master
