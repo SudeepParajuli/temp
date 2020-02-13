@@ -1,2 +1,3 @@
-hello this is feature 
+hello this is master
+we have to merge this file
 
