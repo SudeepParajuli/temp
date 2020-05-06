@@ -1,1 +1,3 @@
 *.txt
+.gitsecret/keys/random_seed
+./cred
