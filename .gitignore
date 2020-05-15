@@ -1,3 +1,7 @@
 *.txt
 .gitsecret/keys/random_seed
 ./cred
+/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
+/pass/pass
