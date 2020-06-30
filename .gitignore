@@ -5,3 +5,4 @@
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
 /pass/pass
+/.secret
